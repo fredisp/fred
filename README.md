@@ -1,2 +1,2 @@
 # fred
-created by wang
+created by fred wang
